@@ -1,6 +1,7 @@
-Flask
-scikit-learn
-joblib
-gunicorn
+flask
 flask-cors
 pandas
+numpy
+joblib
+scikit-learn==1.6.1  # Reemplaza X.Y.Z con tu versión exacta (ej: 1.4.2)
+gunicorn       
